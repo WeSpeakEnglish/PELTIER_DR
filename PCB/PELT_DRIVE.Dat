@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PANEL.PrjPcb|ReportField=ProjectFullPath~D:\Work\Work\Panel_\PROJECT\PANEL.PrjPcb|ReportField=Title~Bill of Materials For Project [PANEL.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~50|ReportField=ReportTime~16:10:19|ReportField=ReportDate~15.08.2013|ReportField=ReportDateTime~15.08.2013 16:10:19|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~15.08.2013|ReportField=CurrentTime~16:10:16|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\Work\Panel_\PROJECT\PANEL.SchDoc|ReportField=DocumentName~PANEL.SchDoc|ReportField=DocumentNumber~|ReportField=DocumentType~?????????????? ?????|ReportField=DocumentType1str~{Документ}|ReportField=DocumentType2str~{Документ}|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=EngineerName~{Инженер}|ReportField=ImagePath~|ReportField=Letter1Column~{}|ReportField=Letter2Column~{}|ReportField=Letter3Column~{}|ReportField=Mass~{Масса}|ReportField=ModifiedDate~15.08.2013|ReportField=NormInspection~{Н.контр.}|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=False|CenterVertical=False|PrintScale=0.67|XCorrection=0.00|YCorrection=0.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1|ReportField=ProcessInspection~{Т.контр.}|ReportField=ProjectName~PANEL.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=Scale~{Масш.}|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=Title1str~{Наименование}|ReportField=Title2str~{Наименование}|ReportField=DataSourceFileName~PANEL.PrjPcb|ReportField=DataSourceFullPath~D:\Work\Work\Panel_\PROJECT\PANEL.PrjPcb
+TSOP348xx_landed||BL1|TSOP348xx -landed|TSOP348xx_landed|1
+8,000M||BQ1|HC 49SM|BQ_HC 49SM|1
+20||C1, C2|Cap_0805|Cap_0805|2
+0,01uF||C3|Cap_0805|Cap_0805|1
+4,7uF||C4, C6|Cap_0805|Cap_0805|2
+1uF||C5|Cap_0805|Cap_0805|1
+100||C7|Cap_0805|Cap_0805|1
+0.01uF||C8, C9, C10, C11|Cap_0805|Cap_0805|4
+STM32F100C8T6B||DD1|LQFP48|STM32F100C8T6B|1
+TSC2007||DD2|PDSO-G16|TSC2007|1
+CAT16-103J2||DR1|CAT16-xxxJ2|CAT16-xxxJ2|1
+CAT16-103J4||DR2, DR3, DR4, DR5, DR7|CAT16-xxxJ4|CAT16-xxxJ4|5
+CAT16-104J4||DR6|CAT16-xxxJ4|CAT16-xxxJ4|1
+KIPD 40A-L||HL1|kipd|KIPD|1
+5.1k||R1, R2|Res_0805|Res_0805|2
+10k||R3, R6, R8, R12, R14, R15|Res_0805|Res_0805|6
+1k||R4, R5, R9, R11|Res_0805|Res_0805|4
+51k||R7|Res_0805|Res_0805|1
+100||R10|Res_0805|Res_0805|1
+10||R13|Res_0805|Res_0805|1
+NSI45020AT1G||VD1, VD2, VD3, VD4|SOD-123|NSI450xx|4
+IRLML2502||VT1, VT2, VT3, VT4|SOT-23|N-CHAN_SOT-23|4
+PLD2-24||XP1|PLD2-24|Connect_2.00_24_2Rows|1
+TFT_Proto||XP2|TFT_Proto|TFT_Proto|1
+SWD||XP3|CONN_2.54_4|CONNECT_SWD|1
+Keypad||XS1|Keypad_2.54_8|Keypad_2.54_8|1

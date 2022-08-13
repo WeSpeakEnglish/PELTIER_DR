@@ -1,0 +1,10 @@
+Added Component: Designator=R98(Res_0805)
+Added Component: Designator=VT38(SOT-23)
+Added Pin To Net: NetName=GND Pin=R98-2
+Added Pin To Net: NetName=GND Pin=VT38-2
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_21 Pin=R98-1
+Added Pin To Net: NetName=NetDD1_21 Pin=VT38-1
+Added Net: Name=NetDD1_21
+Added Member To Class: ClassName=PELT_DRIVE Member=Component R98 1k
+Added Member To Class: ClassName=PELT_DRIVE Member=Component VT38 N-CHAN_SOT-23

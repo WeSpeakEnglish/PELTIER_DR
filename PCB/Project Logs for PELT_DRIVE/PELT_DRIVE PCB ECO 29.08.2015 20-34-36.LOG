@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR22_1 Pin=R25-1
+Removed Pin From Net: NetName=VCC Pin=R25-2
+Removed Pin From Net: NetName=NetR22_1 Pin=XP5-3
+Removed Member From Class: ClassName=PELT_DRIVE Member=R21
+Removed Member From Class: ClassName=PELT_DRIVE Member=R23
+Removed Member From Class: ClassName=PELT_DRIVE Member=R24
+Removed Member From Class: ClassName=PELT_DRIVE Member=R25
+Change Component Comment : Designator=R30 Old Comment=10k New Comment=5.1k
+Added Pin To Net: NetName=NetR22_1 Pin=R30-1
+Added Pin To Net: NetName=NetR22_1 Pin=XP5-2

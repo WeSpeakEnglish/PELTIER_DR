@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=PELT_DRIVE Member=R98
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R98 NewDesignator=R16
+Change Component Designator: OldDesignator=VT38 NewDesignator=VT8
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR18_1
+Added Member To Class: ClassName=PELT_DRIVE Member=Component R14 10
+Added Member To Class: ClassName=PELT_DRIVE Member=Component R15 220
+Added Member To Class: ClassName=PELT_DRIVE Member=Component R18 10k
+Added Member To Class: ClassName=PELT_DRIVE Member=Component SB4 TS A3PV 130

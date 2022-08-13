@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\misc.c
+	"misc.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\misc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\inc\system_stm32f10x.h
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1428402126 d:\prj_ma_2016\pelt_drive\peltier_dr\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1484673016 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\main.c
+	"stm32F10x.h"
+	"stm32f10x_i2c.h"
+	"uart.h"
+	"delays.h"
+	"timers.h"
+	"ioconfig.h"
+	"i2c.h"
+	"bmp085.h"
+	"hd44780_driver.h"
+	"LCD.h"
+	"dac.h"
+	"sht1x.h"
+	"flash.h"
+	"ds18b20.h"
+
+1372222522 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\uart.h
+	"stm32F10x.h"
+
+1374569894 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\delays.h
+	"stm32f10x.h"
+
+1484670008 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\timers.h
+	"stm32f10x.h"
+
+1436432764 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\ioconfig.h
+	"delays.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_it.h"
+
+1309336024 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\stm32f10x_it.h
+	"stm32f10x.h"
+
+1372249486 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\i2c.h
+	"stm32f10x.h"
+
+1381825732 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\bmp085.h
+	"stm32F10x.h"
+
+1393778618 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\hd44780_driver.h
+	"stm32F10x.h"
+
+1393224634 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\lcd.h
+
+1381769224 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\dac.h
+
+1382831976 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\sht1x.h
+	"stm32f10x.h"
+
+1436436590 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\flash.h
+	"stm32f10x.h"
+
+1436422376 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\lcd.c
+	"hd44780_driver.h"
+	"LCD.h"
+	"bmp085.h"
+	"calculations.h"
+
+1381826902 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\calculations.h
+	"stm32F10x.h"
+
+1436350470 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\bmp085.c
+	"bmp085.h"
+	"i2c.h"
+	"delays.h"
+
+1436463934 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\buttons.c
+	"buttons.h"
+
+1436433820 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\buttons.h
+	"stm32F10x.h"
+
+1381828032 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\calculations.c
+	"calculations.h"
+
+1395339150 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\clock_calendar.c
+	"clock_calendar.h"
+
+1395339150 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\clock_calendar.h
+
+1393930932 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\dac.c
+	"dac.h"
+	"stm32f10x.h"
+	"stm32f10x_dac.h"
+
+1484670008 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\delays.c
+	"delays.h"
+
+1484672876 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\ds18b20.c
+	"ds18b20.h"
+
+1484672918 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\ds18b20.h
+	"stm32f10x.h"
+
+1436437904 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\flash.c
+	"flash.h"
+	"stm32f10x_flash.h"
+
+1300570452 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\gpio_emcu.c
+	"gpio_emcu.h"
+
+1300110126 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\gpio_emcu.h
+	"stm32F10x.h"
+
+1436354508 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\hd44780_driver.c
+	"hd44780_driver.h"
+
+1300820654 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\hd44780_emcu.c
+	"gpio_emcu.h"
+	"hd44780_emcu.h"
+
+1428385964 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\hd44780_emcu.h
+	"stm32F10x.h"
+
+1387407208 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\i2c.c
+	"i2c.h"
+	"stm32F10x.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+
+1484672452 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\ioconfig.c
+	"ioconfig.h"
+
+1436463718 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\peltier.c
+	"peltier.h"
+	"delays.h"
+	"lcd.h"
+
+1436462236 d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\peltier.h
+	"stm32F10x.h"
+
+1387406740 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\sht1x.c
+	"sht1x.h"
+
+1484668356 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\stm32f10x_it.c
+	"stm32f10x_it.h"
+
+1484672764 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\timers.c
+	"timers.h"
+	"LCD.h"
+	"hd44780_driver.h"
+	"sht1x.h"
+	"uart.h"
+	"bmp085.h"
+	"ioconfig.h"
+	"buttons.h"
+	"flash.h"
+	"peltier.h"
+	"ds18b20.h"
+
+1372222522 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\modules\uart.c
+	"uart.h"
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\startup_stm32f10x_md_vl.s
+
+1428402126 source:d:\prj_ma_2016\pelt_drive\peltier_dr\src\system_stm32f10x.c
+	"stm32f10x.h"
+
